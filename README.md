@@ -1,8 +1,6 @@
 # 0x1D C - Binary trees :pencil2:
 
-> C is a powerful general-purpose programming language. It can be used to develop software like operating systems, databases, compilers, and so on. This projects covers the concepts of binary trees! This was a project done with the contribution of my peer in many other SWE projects  [Jorge Zafra](https://github.com/jorgezafra94/) Kudos!
-
-At the end of this project, We were able to undesrtand these questions:
+At the end of this project, I was able to undesrtand these questions:
   
 * What is a binary tree
 * What is the difference between a binary tree and a Binary Search Tree
@@ -82,22 +80,22 @@ At the end of this project, We were able to undesrtand these questions:
 | [18-binary_tree_uncle.c](https://github.com/cgrade/binary_trees/blob/master/18-binary_tree_uncle.c)|
 | [100-binary_trees_ancestor.c](https://github.com/cgrade/binary_trees/blob/master/100-binary_trees_ancestor.c)|
 | [101-binary_tree_levelorder.c](https://github.com/cgrade/binary_trees/blob/master/101-binary_tree_levelorder.c)|
-| [102-binary_tree_is_complete.c](https://github.com/edward0rtiz/0x1D-binary_trees/blob/master/102-binary_tree_is_complete.c)|
-| [103-binary_tree_rotate_left.c](https://github.com/edward0rtiz/0x1D-binary_trees/blob/master/103-binary_tree_rotate_left.c)|
-| [104-binary_tree_rotate_right.c](https://github.com/edward0rtiz/0x1D-binary_trees/blob/master/104-binary_tree_rotate_right.c)|
-| [110-binary_tree_is_bst.c](https://github.com/edward0rtiz/0x1D-binary_trees/blob/master/110-binary_tree_is_bst.c)|
-| [111-bst_insert.c](https://github.com/edward0rtiz/0x1D-binary_trees/blob/master/111-bst_insert.c)|
-| [112-array_to_bst.c](https://github.com/edward0rtiz/0x1D-binary_trees/blob/master/112-array_to_bst.c)|
-| [113-bst_search.c](https://github.com/edward0rtiz/0x1D-binary_trees/blob/master/113-bst_search.c)|
-| [114-bst_remove.c](https://github.com/edward0rtiz/0x1D-binary_trees/blob/master/114-bst_remove.c)|
-| [115-O](https://github.com/edward0rtiz/0x1D-binary_trees/blob/master/115-O)|
-| [120-binary_tree_is_avl.c](https://github.com/edward0rtiz/0x1D-binary_trees/blob/master/120-binary_tree_is_avl.c)|
-| [121-avl_insert.c](https://github.com/edward0rtiz/0x1D-binary_trees/blob/master/121-avl_insert.c)|
-| [122-array_to_avl.c](https://github.com/edward0rtiz/0x1D-binary_trees/blob/master/122-array_to_avl.c)|
-| [123-avl_remove.c](https://github.com/edward0rtiz/0x1D-binary_trees/blob/master/123-avl_remove.c)|
-| [124-sorted_array_to_avl.c](https://github.com/edward0rtiz/0x1D-binary_trees/blob/master/124-sorted_array_to_avl.c)|
-| [125-O](https://github.com/edward0rtiz/0x1D-binary_trees/blob/master/125-O)|
-| [130-binary_tree_is_heap.c](https://github.com/edward0rtiz/0x1D-binary_trees/blob/master/130-binary_tree_is_heap.c)|
+| [102-binary_tree_is_complete.c](https://github.com/cgrade/binary_trees/blob/master/102-binary_tree_is_complete.c)|
+| [103-binary_tree_rotate_left.c](https://github.com/cgrade/binary_trees/blob/master/103-binary_tree_rotate_left.c)|
+| [104-binary_tree_rotate_right.c](https://github.com/cgrade/binary_trees/blob/master/104-binary_tree_rotate_right.c)|
+| [110-binary_tree_is_bst.c](https://github.com/cgrade/binary-trees/blob/master/110-binary_tree_is_bst.c)|
+| [111-bst_insert.c](https://github.com/cgrade/binary_trees/blob/master/111-bst_insert.c)|
+| [112-array_to_bst.c](https://github.com/cgrade/binary_trees/blob/master/112-array_to_bst.c)|
+| [113-bst_search.c](https://github.com/cgrade/binary_trees/blob/master/113-bst_search.c)|
+| [114-bst_remove.c](https://github.com/cgrade/binary_trees/blob/master/114-bst_remove.c)|
+| [115-O](https://github.com/cgrade/binary_trees/blob/master/115-O)|
+| [120-binary_tree_is_avl.c](https://github.com/cgrade/binary_trees/blob/master/120-binary_tree_is_avl.c)|
+| [121-avl_insert.c](https://github.com/cgrade/binary_trees/blob/master/121-avl_insert.c)|
+| [122-array_to_avl.c](https://github.com/cgrade/binary_trees/blob/master/122-array_to_avl.c)|
+| [123-avl_remove.c](https://github.com/cgrade/binary_trees/blob/master/123-avl_remove.c)|
+| [124-sorted_array_to_avl.c](https://github.com/cgrade/binary_trees/blob/master/124-sorted_array_to_avl.c)|
+| [125-O](https://github.com/cgrade/binary_trees/blob/master/125-O)|
+| [130-binary_tree_is_heap.c](https://github.com/cgrade/binary_trees/blob/master/130-binary_tree_is_heap.c)|
 | 131-heap_insert.c - Task pending|
 | 132-array_to_heap.c - Task pending|
 | 133-heap_extract.c - Task pending|
