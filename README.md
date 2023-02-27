@@ -79,9 +79,9 @@ At the end of this project, We were able to undesrtand these questions:
 | [15-binary_tree_is_full.c](https://github.com/cgrade/binary_trees/blob/master/15-binary_tree_is_full.c)|
 | [16-binary_tree_is_perfect.c](https://github.com/cgrade/binary_trees/blob/master/16-binary_tree_is_perfect.c)|
 | [17-binary_tree_sibling.c](https://github.com/cgrade/binary_trees/blob/master/17-binary_tree_sibling.c)|
-| [18-binary_tree_uncle.c](https://github.com/edward0rtiz/0x1D-binary_trees/blob/master/18-binary_tree_uncle.c)|
-| [100-binary_trees_ancestor.c](https://github.com/edward0rtiz/0x1D-binary_trees/blob/master/100-binary_trees_ancestor.c)|
-| [101-binary_tree_levelorder.c](https://github.com/edward0rtiz/0x1D-binary_trees/blob/master/101-binary_tree_levelorder.c)|
+| [18-binary_tree_uncle.c](https://github.com/cgrade/binary_trees/blob/master/18-binary_tree_uncle.c)|
+| [100-binary_trees_ancestor.c](https://github.com/cgrade/binary_trees/blob/master/100-binary_trees_ancestor.c)|
+| [101-binary_tree_levelorder.c](https://github.com/cgrade/binary_trees/blob/master/101-binary_tree_levelorder.c)|
 | [102-binary_tree_is_complete.c](https://github.com/edward0rtiz/0x1D-binary_trees/blob/master/102-binary_tree_is_complete.c)|
 | [103-binary_tree_rotate_left.c](https://github.com/edward0rtiz/0x1D-binary_trees/blob/master/103-binary_tree_rotate_left.c)|
 | [104-binary_tree_rotate_right.c](https://github.com/edward0rtiz/0x1D-binary_trees/blob/master/104-binary_tree_rotate_right.c)|
